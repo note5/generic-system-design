@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T07:34:17.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3nxfk4aMWlnxcO7UL_Yi" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T07:35:20.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gacq0ZArxnAHUZskj6Fy" version="17.5.0" type="github">
   <diagram id="s1QR9smHC9O2Ox60oCRZ" name="Page-1">
     <mxGraphModel dx="729" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,13 +32,13 @@
           <mxGeometry x="55" y="140" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2yJ9N1tIW2NhLgxVHkrd-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="780" y="560" width="250" height="240" as="geometry" />
+          <mxGeometry x="780" y="560" width="250" height="250" as="geometry" />
         </mxCell>
         <mxCell id="2yJ9N1tIW2NhLgxVHkrd-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="2yJ9N1tIW2NhLgxVHkrd-18">
-          <mxGeometry width="240" height="240" as="geometry" />
+          <mxGeometry width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="2yJ9N1tIW2NhLgxVHkrd-20" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Core&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Rider registration&lt;/li&gt;&lt;li&gt;Driver registration&lt;/li&gt;&lt;li&gt;Partner registration&lt;/li&gt;&lt;li&gt;Cars verification&lt;/li&gt;&lt;li&gt;Data&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="2yJ9N1tIW2NhLgxVHkrd-18">
-          <mxGeometry x="30" y="50.4" width="190" height="139.2" as="geometry" />
+        <mxCell id="2yJ9N1tIW2NhLgxVHkrd-20" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Core&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Rider registration&lt;/li&gt;&lt;li&gt;Driver registration&lt;/li&gt;&lt;li&gt;Partner registration&lt;/li&gt;&lt;li&gt;Cars verification&lt;/li&gt;&lt;li&gt;Ride request&lt;/li&gt;&lt;li&gt;Trips&lt;/li&gt;&lt;li&gt;payments&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="2yJ9N1tIW2NhLgxVHkrd-18">
+          <mxGeometry x="30" y="50.4" width="190" height="149.6" as="geometry" />
         </mxCell>
         <mxCell id="2yJ9N1tIW2NhLgxVHkrd-32" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="190" width="200" height="285" as="geometry" />
