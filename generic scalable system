@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T06:36:29.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="yS53nBr3q4LfmlBNEY9l" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T06:38:46.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Jwds5MSKzbLG-RNggNmX" version="17.5.0" type="github">
   <diagram id="uU3No9u4Z5EfpSsqDJzE" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TeNOiMO9frjgbOOR1BhF-5" value="IOT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="562.5" y="680" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TeNOiMO9frjgbOOR1BhF-7" value="Billing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TeNOiMO9frjgbOOR1BhF-8" value="Invoices" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TeNOiMO9frjgbOOR1BhF-15" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="770" y="400" width="310" height="240" as="geometry" />
